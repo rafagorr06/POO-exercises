@@ -1,0 +1,1 @@
+Escriba una función que reciba el nombre de un archivo binario que contenga un conjunto de registros de un tipo genérico, y elimine del archivo todos los registros repetidos. La función debe retornar la cantidad de elementos eliminados. Nota: la función podría alterar el orden de los registros si lo considera conveniente para su implementación.

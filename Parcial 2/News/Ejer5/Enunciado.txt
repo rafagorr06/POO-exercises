@@ -1,0 +1,1 @@
+Un archivo de textos INFORME.TXT contiene un reporte de funcionamiento de un paquete de software y se desea modificar el texto de forma de reemplazar la palabra “paquete” por la palabra “aplicación”. Es posible que en una línea aparezca más de una vez la palabra “paquete”. No hay palabras cortadas en el texto.

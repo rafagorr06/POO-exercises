@@ -1,0 +1,22 @@
+El siguiente código muestra un ejemplo de uso de una clase genérica MejoresPunt que permite administrar los N mejores puntajes obtenidos en un videojuego. Escriba el código de las clases Puntuacion y MejoresPunt para que el ejemplo funcione como se indica en sus comentarios.
+	
+	// gestiona las N=10 mejores, lee los datos del archivo 
+	“records.dat”
+	
+	MejoresPunt<Puntuacion> mp(10,”records.dat”);
+	
+	// supongamos que un jugador llamado “Jug1” obtiene 1537
+	
+	Puntuacion p_nueva(“Jug1”,1537); pts
+
+	// si está entre las mejores, agregarla en la lista
+
+	mp.AgregarPuntuacion(p_nueva);
+
+	// muestra la tabla resultante ya ordenada
+
+	for(int i=0;i<mp.VerCant();i++)
+
+	cout<<”mp[i].VerNombre()<<” “<<mp[i].VerPuntos()<<endl;
+
+	mp.Guardar(); // actualiza el archivo binario “records.dat”

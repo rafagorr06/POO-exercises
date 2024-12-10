@@ -1,0 +1,2 @@
+Proponga una función genérica invierte(...) que recibe como parámetro un string correspondiente al nombre de un archivo binario. Dicha función, debe invertir el contenido del archivo, es decir que el primer dato se intercambie con el último, el 2do con el ante-último, etc. Además codifique un programa cliente para invocar dicha función suponiendo que hay tres archivos con datos de tipo int , float y struct par {int x,int y} .
+Nota: no debe usar ningún arreglo, contenedor o archivo auxiliar

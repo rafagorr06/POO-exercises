@@ -1,0 +1,8 @@
+1,harumo,sakura
+2,hyuga,neji
+3,hyuga,hinata
+4,namikase,minato
+5,uchiha,sasuke
+6,uchiha,sarada
+7,uchiha,itachi
+8,uzumaki,naruto
